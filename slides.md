@@ -15,6 +15,8 @@ drawings:
 With PrismaORM, GraphQL code generator
 
 ---
+cols: 1-1
+---
 
 # 喋る人
 
@@ -26,9 +28,14 @@ With PrismaORM, GraphQL code generator
 
 - Frontend developer (Mainly use composition-api)
 
+::right::
+<br />
+<br />
 <br />
 
-<Tweet id="1443588240947101701" scale="0.65" />
+<Tweet id="1443588240947101701" scale="0.80" />
+
+<small style="font-size: 0.4rem;">作り終わったのは夜中の2時過ぎでした…</small>
 
 ---
 
