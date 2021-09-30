@@ -113,7 +113,7 @@ layout: center
 layout: center
 ---
 
-# ここで少し閑話休題
+# ここで少し脱線
 
 ---
 cols: 1-1
@@ -160,6 +160,12 @@ cols: 1-1
 - 内部はRustで書かれている
 - 型を生成してくれる（めっちゃいい）
 - VScodeの拡張を入れることでスキーマ（DB）の記述も補完が効く！
+
+---
+layout: center
+---
+
+# 閑話休題
 
 ---
 layout: center
